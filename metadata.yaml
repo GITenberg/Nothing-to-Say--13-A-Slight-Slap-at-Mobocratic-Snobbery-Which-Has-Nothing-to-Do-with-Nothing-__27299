@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32607'
     url: http://www.gutenberg.org/2009/agents/32607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27299#Nothing-to-Say--13-A-Slight-Slap-at-Mobocratic-Snobbery-Which-Has-Nothing-to-Do-with-Nothing-_
 gutenberg_issued: '2008-11-20'
 gutenberg_type: Text
 identifiers:
