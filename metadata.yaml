@@ -1,0 +1,30 @@
+_repo: Nothing-to-Say--13-A-Slight-Slap-at-Mobocratic-Snobbery-Which-Has-Nothing-to-Do-with-Nothing-__27299
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Doesticks, Q. K. Philander
+    aliases:
+    - Thomson, Mortimer N. (Mortimer Neal)
+    - Thompson, Mortimer Neal
+    birthdate: 1831
+    deathdate: 1875
+    gutenberg_agent_id: '32607'
+    url: http://www.gutenberg.org/2009/agents/32607
+description: ''
+gutenberg_issued: '2008-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: "Nothing to Say\r\nA Slight Slap at Mobocratic Snobbery, Which Has 'Nothing\
+  \ to Do' with 'Nothing to Wear'"
+url: http://www.gutenberg.org/ebooks/27299
